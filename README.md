@@ -54,13 +54,13 @@ This project is licensed under the MIT License.
 
 ```bash
 perl
-### Step 3: Commit and Push the Changes
+Commit and Push the Changes
 
 1. After adding the `README.md` file to your local project, use Git to commit and push the changes to the remote repository:
    git add README.md
    git commit -m "Add README.md file"
    git push origin main
-    ``` 
+
 
 
 
