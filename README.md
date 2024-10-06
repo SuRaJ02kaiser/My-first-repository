@@ -53,7 +53,7 @@ License
 This project is licensed under the MIT License.
 
 ```bash
-perl
+
 Commit and Push the Changes
 
 1. After adding the `README.md` file to your local project, use Git to commit and push the changes to the remote repository:
