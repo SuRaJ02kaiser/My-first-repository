@@ -60,8 +60,9 @@ Commit and Push the Changes
 yarn start
 The app will now be running locally at http://localhost:3000.
 ```
-Usage
-Describe how users can use the project. If there are specific commands, features, or functions, explain them clearly.
+## Usage
+
+Describe how users can use the project. If there are specific commands, features, or functions.
 
 Example:
 
