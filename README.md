@@ -49,8 +49,7 @@ For local development servers, navigate to http://localhost:3000 (or another por
 Contributing
 Feel free to fork this project, make improvements, and submit a pull request!
 
-Commit and Push the Changes
-
+6.Commit and Push the Changes
 1. After adding the `README.md` file to your local project, use Git to commit and push the changes to the remote repository:
    git add README.md
    git commit -m "Add README.md file"
